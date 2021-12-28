@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omoze Oyarebu
-- 👀 I’m interested in ...Programming
+- 👀 I’m interested in ...learning how to use Computer's to automate tasks in my life
 - 🌱 I’m currently learning ... Java and MySQL
-- 💞️ I’m looking to collaborate on ...Programming based projects 
+- 💞️ I’m looking for...Tech Internships
 - 📫 How to reach me ...Oyarebuo@gmail.com
 
 <!---
