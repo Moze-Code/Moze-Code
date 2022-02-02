@@ -5,7 +5,7 @@
 - 📫 How to reach me ...Oyarebuo@gmail.com
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moze-Code&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moze-Code&layout=compact" />
 
 <!---
 Moze-Code/Moze-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
