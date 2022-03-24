@@ -7,7 +7,7 @@
                                                           MY STATS
 
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moze-Code&layout=compact">
+  <img width="410" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moze-Code&layout=compact">
 </p>
 
 <!---
