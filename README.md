@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omoze Oyarebu
 - 👀 I’m interested in ...learning how to use Computer's to automate tasks in my life
-- 🌱 I’m currently learning ... Perl and Bash
+- 🌱 I’m currently learning ... HTML, CSS, and Flask
 - 💞️ I’m looking for...Tech Internships
 - 📫 How to reach me ...Oyarebuo@gmail.com
 
