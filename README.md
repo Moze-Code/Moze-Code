@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omoze Oyarebu
 - 👀 I’m interested in ...learning how to use Computer's to automate tasks in my life
 - 🌱 I’m currently learning ... mobile development frameworks for a personal project
-- 💞️ I’m looking for...Tech Internships
+- 💞️ I’m looking for...New grad SWE positions
 - 📫 How to reach me ...Oyarebuo@gmail.com
 
                                                           MY STATS
